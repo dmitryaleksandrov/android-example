@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">alarm-manager</string>
+    <string name="schedule">SCHEDULE</string>
+</resources>
