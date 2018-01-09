@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">launch-mode</string>
+
+    <string name="bootstrap">BOOTSTRAP</string>
+
+    <string name="standard">STANDARD</string>
+    <string name="single_top">SINGLE TOP</string>
+    <string name="single_task">SINGLE TASK</string>
+    <string name="single_instance">SINGLE INSTANCE</string>
+    <string name="single_task_clear_top">SINGLE INSTANCE CLEAR TOP</string>
+</resources>

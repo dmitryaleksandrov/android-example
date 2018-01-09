@@ -1,1 +1,1 @@
-include ':alarm-manager'
+include ':alarm-manager', ':launch-mode'
